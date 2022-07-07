@@ -2,7 +2,7 @@ Cross Platform Development
 ----------------------------
 React Native: JavaScript
   > Familiar and popular language
-  > Slow
+  > Relatively Slow (by some milliseconds)
   
   
 Flutter: Dart (Looks similar to Python)
