@@ -2,11 +2,13 @@ Cross Platform Development
 ----------------------------
 React Native: JavaScript
   > Familiar and popular language
+  > Slow
   
   
 Flutter: Dart (Looks similar to Python)
   > Google Owned
   > Language started from Google
+  > Fast
 
 
 Xamarin: C#/.Net
