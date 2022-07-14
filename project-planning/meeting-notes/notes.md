@@ -5,21 +5,23 @@
   the development process!
 
 ## **Cross Platform Development** 
-1. **React Native**: JavaScript
-   - Familiar and popular language
-   - Relatively Slow (by some milliseconds)
   
 1. **Flutter**: Dart (Looks similar to Python)
    - Google Owned
    - Language started from Google
    - Fast
 
-1. **Xamarin**: C#/.Net
-
 ## **Ideal IDEs**
 - Android Studio
 - XCode (for IOS only) 
    - Only MACs can test for IOS
+   - 
+## **Online Dart Compiler (Similar to JSFiddle)**
+https://dartpad.dev/?
+
+## **Display phone pc screen**
+- scrcpy
+- https://github.com/Genymobile/scrcpy
 
 ## **TODOs for Mary Dalton** 
 - [Enroll to Apple Developer Program](https://developer.apple.com/programs/enroll/)
